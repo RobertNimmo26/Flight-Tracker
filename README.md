@@ -2,7 +2,7 @@
 A small Flight Tracker program which can find flights and also find the status of the flight. 
  # Set Up
 The program requires a flight aware v3 api account
-You can sign up for a free account here: https://flightaware.com/commercial/flightxml/v3/content.rvt
+You can sign up for a free account here: https://flightaware.com/commercial/flightxml/v3/content.rvt  
 You can then add your username and api key to the program.
 
 To use the email feature you are required to add a gmail email address and password to the program. The account must also have less secure app access on.
